@@ -1,0 +1,11 @@
+I"ò<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="k">print</span><span class="p">(</span><span class="s">"First Blog Site"</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<ul class="generic-list"><div class="item">Elit illum at accusantium facilis incidunt Mollitia cupiditate neque quos</div>
+<div class="item">Consectetur cumque rem consequuntur sunt a Nostrum ullam veniam nam!</div>
+<div class="item">Amet beatae fugiat in perspiciatis deleniti architecto Autem nemo itaque?</div>
+<div class="item">Amet officia maxime fugit nisi beatae voluptates! Animi aut quidem.</div>
+</ul>
+:ET
