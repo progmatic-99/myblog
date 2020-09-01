@@ -7,7 +7,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author: Shubham Upreti # add your name
-author-img: ld.jpeg # add your photo
+author-img: logo.svg # add your photo
 about-author: Developer | Engineer | Freelancer
 social-twitter: progmatic99 # add your Twitter handle
 #social-facebook: # add your Facebook handle
